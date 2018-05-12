@@ -1,0 +1,40 @@
+_repo: Northern-Lights_26905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: Lodge in the wilderness; Once at red man's river; The stroke of the hour;
+  Buckmaster's boy; To-morrow; Qu'appelle; Stake & the plumb-line; When the swallows
+  homeward fly; George's wife; Marcile; A man, a famine, and a heathen boy; Healing
+  springs & the pioneers; Little widow of Jansen; Watching the rise of Orion; Error
+  of the day; The whisperer; As deep as the sea.
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcc 'PS'
+tableOfContents: A lodge in the wilderness -- One at Red Man's River -- The stroke
+  of the hour -- Buckmaster's boy -- To-morrow -- Qu'appelle -- The stake and the
+  plumb-line -- When the swallows homeward fly -- George's wife -- Marcile -- A man,
+  a famine, and a heathen boy -- The healing springs and the pioneers -- The little
+  widow of Jansen -- Watching the rise of Orion -- The error of the day -- The whisperer
+  -- As deep as the sea.
+title: Northern Lights
+url: http://www.gutenberg.org/ebooks/26905
